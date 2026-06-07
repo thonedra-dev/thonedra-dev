@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, World! I'm [Your Name] 🚀
 
-<!--
-**thonedra-dev/thonedra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack software developer passionate about building data-driven web applications and modern architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Development Ecosystem & Activity
+
+<!-- This wraps your beautiful SVG so it scales elegantly on mobile and desktop -->
+<p align="center">
+  <img src="github-metrics.svg" alt="My Tech Ecosystem Dashboard" width="100%" />
+</p>
+
+---
+
+*Note: My organic live contribution tracking with exact numbers can be found at the very bottom of this page!*
