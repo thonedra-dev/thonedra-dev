@@ -57,9 +57,9 @@ Machine Learning platform integrating frontend, backend and multiple ML models i
 
 Flask + Pandas web application for CSV analysis, data transformation and downloadable insights.
 
-### 💬 AIU Messenger & Social Platform
+### 💬 Laravel + PostgreSQL based Cinema Operational System
 
-University ecosystem project featuring real-time messaging, media sharing and social networking capabilities.
+A Business ecosystem for a whole Cinema Industry including [ Admin, Branch managers, Users ] with Business Rules, Mathematics and Role-based concurrency access web-app.
 
 ---
 
