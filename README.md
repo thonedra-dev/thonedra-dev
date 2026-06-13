@@ -1,6 +1,6 @@
-# Hello, World! I'm [Your Name] 🚀
+# Hello, World! I'm [Thone Dra] 🚀
 
-A full-stack software developer passionate about building data-driven web applications and modern architectures.
+I am a Second Year Computer Science Student and I enjoy Software Engineering, Web Development, Data Science and Game Developments. Additionally, I am open for collaboration with other developers for exicting new projects.
 
 ---
 
