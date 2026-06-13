@@ -1,16 +1,105 @@
-# Hello! My name is Thone Dra.🚀
+# Hello! My name is Thone Dra 🚀
 
-I am a Second Year Computer Science Student and I enjoy Software Engineering, Web Development, Data Science and Game Developments. Additionally, I am open for collaboration with other developers for exicting new projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Engineer;Data+Science+Enthusiast;React+%7C+Flask+%7C+Python+Developer;Building+Real-World+Projects+One+Commit+At+A+Time" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Second Year Computer Science Student
+
+💡 Passionate about:
+
+* Software Engineering
+* Web Development
+* Data Science & Machine Learning
+* Game Development
+
+🤝 Open to collaborating on exciting projects and learning opportunities.
+
+---
+
+## ⚡ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,html,css,sql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flask,tensorflow,pandas" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ SHEIN Clone
+
+Full-stack E-Commerce platform built using React, Flask and MySQL featuring authentication, product variants, ordering system, favorites and advanced filtering.
+
+### 🤖 Model Hub
+
+Machine Learning platform integrating frontend, backend and multiple ML models into a unified system.
+
+### 📊 Data Analysis Web
+
+Flask + Pandas web application for CSV analysis, data transformation and downloadable insights.
+
+### 💬 AIU Messenger & Social Platform
+
+University ecosystem project featuring real-time messaging, media sharing and social networking capabilities.
+
+---
+
+## 📈 Current Learning Journey
+
+```text
+Machine Learning ████████████████████ 100%
+Deep Learning    ████████████████████ 100%
+Flask            ████████████████████ 100%
+React            ████████████████████ 100%
+Data Science     ██████████████████░░ 90%
+MLOps            ███████░░░░░░░░░░░░ 35%
+```
 
 ---
 
 ## 📊 My Development Ecosystem & Activity
 
-<!-- This wraps your beautiful SVG so it scales elegantly on mobile and desktop -->
 <p align="center">
   <img src="github-metrics.svg" alt="My Tech Ecosystem Dashboard" width="100%" />
 </p>
 
 ---
 
-*Note: My organic live contribution tracking with exact numbers can be found at the very bottom of this page!*
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+
+---
+
+## 🌟 Philosophy
+
+> "Code is like chess. Every move matters, every sacrifice has a purpose, and every project teaches a new strategy."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views" />
+</p>
+
+*My live GitHub contribution history and exact statistics can be found below.*
