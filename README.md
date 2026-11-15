@@ -1,105 +1,57 @@
-# Hello! My name is Thone Dra 🚀
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px)" srcset="assets/hero-mobile.png 2x">
+    <img src="assets/hero.png" alt="Thone Dra — The Architect. Software Engineering and Full-Stack Development. Final-year Computer Science undergraduate at Albukhary International University, Malaysia, seeking Software Engineering internships. His original illustrated portrait, engineering interests, and complete technology toolkit form one seamless presentation. A text equivalent is available below.">
+  </picture>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Engineer;Data+Science+Enthusiast;React+%7C+Flask+%7C+Python+Developer;Building+Real-World+Projects+One+Commit+At+A+Time" alt="Typing SVG" />
+  <picture>
+    <source media="(max-width: 760px)" srcset="assets/selected-work-mobile.svg">
+    <img src="assets/selected-work.svg" alt="Selected work: Vantage, an institutional intranet under development; Cinema X, cinema management and reservations; TaskFlow, productivity and collaboration; Aureli, e-commerce. Descriptions and primary technologies are integrated into the visual. A text equivalent is available below.">
+  </picture>
 </p>
 
----
+<details>
+<summary>Accessible text version</summary>
 
-## 👨‍💻 About Me
+### Thone Dra
 
-🎓 Second Year Computer Science Student
+**Software Engineering · Full-Stack Development.** Final-year Bachelor of Computer Science undergraduate at **Albukhary International University, Malaysia**. Seeking **Software Engineering internships**.
 
-💡 Passionate about:
+Engineering interests: backend architecture, databases, authentication, full-stack applications, and thoughtful user experiences. Experience varies by technology.
 
-* Software Engineering
-* Web Development
-* Data Science & Machine Learning
-* Game Development
+- **Programming languages:** Python · JavaScript · PHP · SQL
+- **Frontend engineering:** React · Next.js · Inertia.js · Tailwind CSS · HTML · CSS
+- **Backend engineering:** Laravel · Flask
+- **Database systems:** PostgreSQL · MySQL
+- **Development tools:** Git · GitHub · VS Code · Vite
 
-🤝 Open to collaborating on exciting projects and learning opportunities.
+### Selected work
 
----
+- **Vantage:** Self-hosted institutional intranet with role-based access and data sovereignty. Laravel · PostgreSQL · Inertia.js · React. **Final Year Project · Under development.**
+- **Cinema X:** Cinema management, reservations, dynamic pricing, and payments. Laravel · PostgreSQL · JavaScript.
+- **TaskFlow:** Full-stack productivity and collaboration, including tasks and meetings. React · Flask · MySQL.
+- **Aureli:** Full-stack e-commerce with products, carts, and customer experiences. React · Flask · MySQL.
 
-## ⚡ Tech Stack
+</details>
 
-### Programming Languages
+## GitHub activity
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,html,css,sql" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flask,tensorflow,pandas" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ SHEIN Clone
-
-Full-stack E-Commerce platform built using React, Flask and MySQL featuring authentication, product variants, ordering system, favorites and advanced filtering.
-
-### 🤖 Model Hub
-
-Machine Learning platform integrating frontend, backend and multiple ML models into a unified system.
-
-### 📊 Data Analysis Web
-
-Flask + Pandas web application for CSV analysis, data transformation and downloadable insights.
-
-### 💬 Laravel + PostgreSQL based Cinema Operational System
-
-A Business ecosystem for a whole Cinema Industry including [ Admin, Branch managers, Users ] with Business Rules, Mathematics and Role-based concurrency access web-app.
-
----
-
-## 📈 Current Learning Journey
-
-```text
-Machine Learning ████████████████████ 100%
-Deep Learning    ████████████████████ 100%
-Flask            ████████████████████ 100%
-React            ████████████████████ 100%
-Data Science     ██████████████████░░ 90%
-MLOps            ███████░░░░░░░░░░░░ 35%
-```
-
----
-
-## 📊 My Development Ecosystem & Activity
+A GitHub-generated metrics snapshot, including an isometric contribution calendar and activity statistics.
 
 <p align="center">
-  <img src="github-metrics.svg" alt="My Tech Ecosystem Dashboard" width="100%" />
+  <img src="github-metrics.svg" alt="Generated GitHub metrics for thonedra-dev: an isometric contributions calendar, activity statistics, and language section. This dashboard differs from GitHub's traditional contribution heatmap." width="480">
 </p>
 
----
+[Full-size dashboard →](github-metrics.svg) · [Current activity →](https://github.com/thonedra-dev)
 
-## 🔥 GitHub Streak
+## Connect
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
-</p>
+**Let's build something considered.** Internships, collaboration, and technical conversations.
 
----
+[LinkedIn ↗](https://www.linkedin.com/in/thone-dra-86048542a/) · [GitHub ↗](https://github.com/thonedra-dev)
 
-## 🌟 Philosophy
+**+60 11 2892 2047** · [Message on WhatsApp ↗](https://wa.me/601128922047)
 
-> "Code is like chess. Every move matters, every sacrifice has a purpose, and every project teaches a new strategy."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views" />
-</p>
-
-*My live GitHub contribution history and exact statistics can be found below.*
+![Built with intent. Thone Dra — The Architect.](assets/footer.svg)
