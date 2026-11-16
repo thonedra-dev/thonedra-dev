@@ -1,8 +1,10 @@
 <p align="center">
+  
   <picture>
     <source media="(max-width: 760px)" srcset="assets/hero-mobile.png 2x">
     <img src="assets/hero.png" alt="Thone Dra — The Architect. Software Engineering and Full-Stack Development. Final-year Computer Science undergraduate at Albukhary International University, Malaysia, seeking Software Engineering internships. His original illustrated portrait, engineering interests, and complete technology toolkit form one seamless presentation. A text equivalent is available below.">
   </picture>
+  
 </p>
 
 <p align="center">
